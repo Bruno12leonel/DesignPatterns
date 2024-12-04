@@ -1,6 +1,3 @@
-Aqui está um exemplo de um arquivo `README.md` para o seu projeto, detalhando o propósito, a estrutura e o uso do código.
-
-````markdown
 # Adapter Design Pattern Example
 
 Este repositório contém um exemplo prático do **Design Pattern Adapter**, que demonstra como integrar diferentes sistemas de banco de dados (MySQL e Oracle) a uma interface comum (`DbAdapter`).
@@ -35,6 +32,7 @@ O objetivo deste projeto é ilustrar o uso do padrão estrutural **Adapter**, qu
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
    ```
+
 ````
 
 2. Certifique-se de que você tem o **Node.js** instalado.
@@ -99,3 +97,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 Se precisar de mais personalizações, posso ajudar!
 ```
+````
