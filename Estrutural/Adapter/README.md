@@ -28,12 +28,11 @@ O objetivo deste projeto é ilustrar o uso do padrão estrutural **Adapter**, qu
 ## 🚀 Como Executar o Projeto
 
 1. Clone o repositório:
+
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
    ```
-
-````
 
 2. Certifique-se de que você tem o **Node.js** instalado.
 
@@ -61,40 +60,3 @@ O objetivo deste projeto é ilustrar o uso do padrão estrutural **Adapter**, qu
 ├── Client.ts                # Arquivo principal de execução
 └── README.md              # Documentação do projeto
 ```
-
----
-
-## 🧪 Exemplo de Saída
-
-Ao executar o projeto, você verá algo como:
-
-```
-Inserting data in MySQL
-```
-
-Se você tentar usar `OracleCommands` sem implementar os métodos, uma exceção será lançada.
-
----
-
-## 📚 Referências
-
-- [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns)
-- [Adapter Design Pattern - GeeksforGeeks](https://www.geeksforgeeks.org/adapter-pattern/)
-
----
-
-## 🤝 Contribuições
-
-Sinta-se à vontade para abrir issues ou pull requests para melhorar este exemplo.
-
----
-
-## 🛡️ Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
-```
-
-Se precisar de mais personalizações, posso ajudar!
-```
-````
