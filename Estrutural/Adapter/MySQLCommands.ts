@@ -11,3 +11,5 @@ class MySQLCommands {
         console.log('Deleting data in MySQL');
     }
 }
+
+export default MySQLCommands;

@@ -3,3 +3,5 @@ interface DbAdapter {
     update(): void;
     delete(): void;
 }
+
+export default DbAdapter;

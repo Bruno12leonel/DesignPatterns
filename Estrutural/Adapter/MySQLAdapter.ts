@@ -1,3 +1,6 @@
+import DbAdapter from "./DbAdapter";
+import MySQLCommands from "./MySQLCommands";
+
 class MySQLAdapter implements DbAdapter {
 
     private mysql: MySQLCommands;
@@ -16,3 +19,5 @@ class MySQLAdapter implements DbAdapter {
     }
 
 }
+
+export default MySQLAdapter;
